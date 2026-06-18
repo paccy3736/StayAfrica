@@ -1,0 +1,216 @@
+[
+  {
+    "id": "1",
+    "name": "Kigali Serena Hotel",
+    "location": "Kigali, Rwanda",
+    "pricePerNight": 185,
+    "rating": 4.8,
+    "reviewCount": 312,
+    "stars": 5,
+    "amenities": ["Free WiFi", "Pool", "Breakfast included", "Spa", "Gym", "Restaurant"],
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&q=80",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=800&q=80"
+    ],
+    "description": "A luxurious five-star property nestled in the heart of Kigali, offering breathtaking views of the Rwandan hills. Guests enjoy world-class dining, a serene spa, and impeccable service.",
+    "type": "Hotel",
+    "roomTypes": [
+      { "name": "Standard Room", "capacity": 2, "price": 185 },
+      { "name": "Deluxe Room", "capacity": 2, "price": 240 },
+      { "name": "Junior Suite", "capacity": 3, "price": 360 }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Cape Town Waterfront Apartment",
+    "location": "Cape Town, South Africa",
+    "pricePerNight": 120,
+    "rating": 4.6,
+    "reviewCount": 198,
+    "stars": 4,
+    "amenities": ["Free WiFi", "Kitchen", "Sea View", "Parking", "Air Conditioning"],
+    "images": [
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80"
+    ],
+    "description": "Modern, stylishly furnished apartment steps from the V&A Waterfront. Enjoy panoramic views of Table Mountain and the Atlantic Ocean from your private balcony.",
+    "type": "Apartment",
+    "roomTypes": [
+      { "name": "1-Bedroom Apartment", "capacity": 2, "price": 120 },
+      { "name": "2-Bedroom Apartment", "capacity": 4, "price": 195 }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Zanzibar Beach Resort",
+    "location": "Zanzibar, Tanzania",
+    "pricePerNight": 210,
+    "rating": 4.9,
+    "reviewCount": 445,
+    "stars": 5,
+    "amenities": ["Free WiFi", "Private Beach", "Pool", "All Inclusive", "Water Sports", "Spa"],
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80",
+      "https://images.unsplash.com/photo-1540202404-a2f29d3a8b4c?w=800&q=80"
+    ],
+    "description": "An idyllic beachfront resort on the spice island of Zanzibar. Crystal-clear waters, white sand beaches, and lush tropical gardens create an unforgettable paradise escape.",
+    "type": "Resort",
+    "roomTypes": [
+      { "name": "Beach Bungalow", "capacity": 2, "price": 210 },
+      { "name": "Ocean-View Suite", "capacity": 2, "price": 310 },
+      { "name": "Overwater Villa", "capacity": 2, "price": 490 }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Nairobi Business Suites",
+    "location": "Nairobi, Kenya",
+    "pricePerNight": 95,
+    "rating": 4.4,
+    "reviewCount": 156,
+    "stars": 4,
+    "amenities": ["Free WiFi", "Business Center", "Gym", "Restaurant", "Airport Shuttle"],
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800&q=80",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=80"
+    ],
+    "description": "Contemporary business hotel in Nairobi's Central Business District. Designed for modern travellers, with high-speed connectivity, meeting rooms, and easy access to Nairobi's top attractions.",
+    "type": "Hotel",
+    "roomTypes": [
+      { "name": "Business Room", "capacity": 1, "price": 95 },
+      { "name": "Executive Suite", "capacity": 2, "price": 155 }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Lagos Luxury Villa",
+    "location": "Lagos, Nigeria",
+    "pricePerNight": 320,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "stars": 5,
+    "amenities": ["Free WiFi", "Private Pool", "Chef Service", "Security", "Garden", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80"
+    ],
+    "description": "An exclusive private villa in Lagos' most sought-after neighbourhood. Features a private pool, manicured gardens, and a dedicated chef. Perfect for families or group retreats.",
+    "type": "Villa",
+    "roomTypes": [
+      { "name": "4-Bedroom Villa", "capacity": 8, "price": 320 },
+      { "name": "6-Bedroom Villa", "capacity": 12, "price": 480 }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Accra Beachside Inn",
+    "location": "Accra, Ghana",
+    "pricePerNight": 75,
+    "rating": 4.3,
+    "reviewCount": 203,
+    "stars": 3,
+    "amenities": ["Free WiFi", "Beach Access", "Restaurant", "Bar", "Air Conditioning"],
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&q=80",
+      "https://images.unsplash.com/photo-1544124499-58912cbddaad?w=800&q=80",
+      "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=800&q=80"
+    ],
+    "description": "A charming beachside inn just metres from the Gulf of Guinea. Laid-back vibes, fresh seafood, and warm Ghanaian hospitality make this a favourite for budget-conscious travellers.",
+    "type": "Hotel",
+    "roomTypes": [
+      { "name": "Standard Room", "capacity": 2, "price": 75 },
+      { "name": "Sea-View Room", "capacity": 2, "price": 95 }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Marrakech Riad Oasis",
+    "location": "Marrakech, Morocco",
+    "pricePerNight": 140,
+    "rating": 4.8,
+    "reviewCount": 367,
+    "stars": 4,
+    "amenities": ["Free WiFi", "Rooftop Terrace", "Hammam", "Breakfast included", "Airport Transfer"],
+    "images": [
+      "https://images.unsplash.com/photo-1539437829697-1b4ed346db21?w=800&q=80",
+      "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800&q=80",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80"
+    ],
+    "description": "A traditional Moroccan riad hidden within the Medina's winding alleys. Ornate tilework, a central courtyard fountain, and a rooftop terrace with Atlas Mountain views.",
+    "type": "Hotel",
+    "roomTypes": [
+      { "name": "Standard Room", "capacity": 2, "price": 140 },
+      { "name": "Superior Room", "capacity": 2, "price": 175 },
+      { "name": "Suite", "capacity": 3, "price": 260 }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Cairo Nile View Apartments",
+    "location": "Cairo, Egypt",
+    "pricePerNight": 88,
+    "rating": 4.2,
+    "reviewCount": 134,
+    "stars": 3,
+    "amenities": ["Free WiFi", "Nile View", "Kitchen", "24h Reception", "Laundry"],
+    "images": [
+      "https://images.unsplash.com/photo-1595877244574-e90ce41ce089?w=800&q=80",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&q=80"
+    ],
+    "description": "Comfortable self-catering apartments overlooking the majestic River Nile. Ideal for longer stays, with fully equipped kitchens and easy access to Cairo's iconic landmarks.",
+    "type": "Apartment",
+    "roomTypes": [
+      { "name": "Studio Apartment", "capacity": 2, "price": 88 },
+      { "name": "1-Bedroom Apartment", "capacity": 3, "price": 120 }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Seychelles Island Resort",
+    "location": "Mahé, Seychelles",
+    "pricePerNight": 450,
+    "rating": 4.9,
+    "reviewCount": 278,
+    "stars": 5,
+    "amenities": ["Free WiFi", "Private Beach", "Infinity Pool", "Diving Center", "Spa", "All Inclusive"],
+    "images": [
+      "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=800&q=80",
+      "https://images.unsplash.com/photo-1602002418082-dd4a393d9574?w=800&q=80",
+      "https://images.unsplash.com/photo-1540541338537-04b19f1cac50?w=800&q=80"
+    ],
+    "description": "An award-winning five-star resort on the pristine shores of Mahé island. Granite boulders, turquoise lagoons, and lush tropical forests surround this secluded slice of heaven.",
+    "type": "Resort",
+    "roomTypes": [
+      { "name": "Garden Villa", "capacity": 2, "price": 450 },
+      { "name": "Beach Villa", "capacity": 2, "price": 620 },
+      { "name": "Presidential Suite", "capacity": 4, "price": 1200 }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Addis Ababa Highlands Hotel",
+    "location": "Addis Ababa, Ethiopia",
+    "pricePerNight": 65,
+    "rating": 4.1,
+    "reviewCount": 91,
+    "stars": 3,
+    "amenities": ["Free WiFi", "Restaurant", "Conference Room", "Parking", "Room Service"],
+    "images": [
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&q=80",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&q=80",
+      "https://images.unsplash.com/photo-1455587734955-081b22074882?w=800&q=80"
+    ],
+    "description": "A welcoming mid-range hotel in the highlands of Addis Ababa. Enjoy authentic Ethiopian cuisine, warm hospitality, and a central location close to the African Union headquarters.",
+    "type": "Hotel",
+    "roomTypes": [
+      { "name": "Standard Room", "capacity": 2, "price": 65 },
+      { "name": "Family Room", "capacity": 4, "price": 95 }
+    ]
+  }
+]
